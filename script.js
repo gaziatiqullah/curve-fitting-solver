@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:5000/api'; // Change for production
+const API_URL = 'https://curve-fitting-api.onrender.com/api'; // Change for production
 let currentMethod = 'linear';
 let currentCoeffs = null;
 let currentGraph = null;
